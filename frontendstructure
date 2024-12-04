@@ -1,0 +1,8 @@
+social-media-app-frontend/
+├── src/
+    ├── components/
+    │   ├── Profile.js
+    │   ├── Posts.js
+    ├── App.js
+    ├── services/
+        ├── api.js
