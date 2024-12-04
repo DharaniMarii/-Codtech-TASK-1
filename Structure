@@ -1,0 +1,8 @@
+social-media-app-backend/
+├── server.js
+├── models/
+│   ├── User.js
+│   ├── Post.js
+└── routes/
+    ├── userRoutes.js
+    ├── postRoutes.js
